@@ -1,0 +1,9 @@
+{
+	"name": "adf-dev-testing",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8613af9f-8563-46f3-a45d-3d2741784816",
+		"tenantId": "6f68b39f-53c2-4aa6-ae20-83ce9c111eaa"
+	}
+}
